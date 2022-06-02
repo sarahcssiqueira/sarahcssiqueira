@@ -7,17 +7,18 @@
 
 Hey there 👋
 
-I’m @sarahcssiqueira, a 28 years old, former accountant, physics student, and full stack developer.
+I’m @sarahcssiqueira, a full stack developer, 28 years old, former accountant, eternal physics student (maybe someday I'll graduate).
 
 🐾 Currently working for a e-commerce, on their registration pet system with smart tags, and notifications about lost pets (Read more on <a href="https://rgparapets.com/">RG para Pets</a>).
 
-💻 Curious about AI.
+💻 Curious about AI, new tech stacks, learning Typescrit ;)
 
 ✉️ To reach me, send a e-mail to sarahcosiqueira@gmail.com ;)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sarahcssiqueira/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sarahcssiqueira)
 
+<br>
 
 ## 📌 Pinned Repositories
 
@@ -45,18 +46,16 @@ I’m @sarahcssiqueira, a 28 years old, former accountant, physics student, and 
 
 ## 💼 Mains Skills
 
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
 
 <details>
 <summary>Some More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
 
   
 </details>
