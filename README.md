@@ -1,3 +1,10 @@
+
+<br>
+
+## ✨ "Programming is like playing LEGO on real life."
+
+<br>
+
 Hey there 👋
 
 I’m @sarahcssiqueira, a 28 years old, former accountant, physics student, and full stack developer.
@@ -53,11 +60,5 @@ I’m @sarahcssiqueira, a 28 years old, former accountant, physics student, and 
 
   
 </details>
-
-<br>
-
-## ✨ Programming is like playing LEGO on real life
-
-<br>
 
 <br>
