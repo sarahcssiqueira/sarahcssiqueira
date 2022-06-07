@@ -20,13 +20,6 @@ I’m @sarahcssiqueira, a full stack developer, 28 years old, former accountant,
 
 <br>
 
-## 📌 Pinned Repositories
-
-<br>
-
-
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
@@ -51,13 +44,3 @@ I’m @sarahcssiqueira, a full stack developer, 28 years old, former accountant,
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-
-<details>
-<summary>Some More Skills</summary>
-<br>
-
-
-  
-</details>
-
-<br>
