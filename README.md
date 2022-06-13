@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I’m @sarahcssiqueira, a full stack developer, 28 years old, former accountant, eternal physics student (maybe someday I'll graduate).
+I’m @sarahcssiqueira, a full stack developer, former accountant, eternal physics student.
 
 🐾 Currently working for a e-commerce, on their registration pet system with smart tags, and notifications about lost pets (Read more on <a href="https://rgparapets.com/">RG para Pets</a>).
 
