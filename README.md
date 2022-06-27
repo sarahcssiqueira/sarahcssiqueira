@@ -7,16 +7,18 @@
 
 Hey there 👋
 
-I’m @sarahcssiqueira, a full stack developer, former accountant, eternal physics student.
+I'm <a href="https://www.linkedin.com/in/sarahcssiqueira/"><i>@sarahcssiqueira</i></a> a full stack developer, former accountant, eternal physics student.
 
 🐾 Currently working for a e-commerce, on their registration pet system with smart tags, and notifications about lost pets (Read more on <a href="https://rgparapets.com/">RG para Pets</a>).
 
-💻 Curious about AI, new tech stacks, learning Typescrit ;)
+💻 Curious about AI, new tech stacks ;)
 
-✉️ To reach me, send a e-mail to sarahcosiqueira@gmail.com ;)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sarahcssiqueira/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sarahcssiqueira)
+<div align="center"> <br>
+  <a href="https://www.linkedin.com/in/sarahcssiqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:sarahcosiqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br> <br>
 
 <br>
 
@@ -39,8 +41,15 @@ I’m @sarahcssiqueira, a full stack developer, former accountant, eternal physi
 
 ## 💼 Mains Skills
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+<div align="center" valign="top"><br>
+  
+  <img align="center" alt="HTML" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="git" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  
+</div>
 
