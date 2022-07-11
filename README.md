@@ -32,4 +32,9 @@ To reach me, just drop a message:
 
 <br>
 
+![Sarah Status](https://github-readme-stats.vercel.app/api?username=sarahcssiqueira&show_icons=true&title_color=f26464)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahcssiqueira&layout=compact&title_color=f26464)](https://github.com/sarahcssiqueira/github-readme-stats)
+
+<br>
+<br>
 
