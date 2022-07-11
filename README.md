@@ -32,9 +32,4 @@ To reach me, just drop a message:
 
 <br>
 
-| <a href="https://github.com/sarahcssiqueira/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahcssiqueira&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sarahcssiqueira/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahcssiqueira&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br>
-
 
