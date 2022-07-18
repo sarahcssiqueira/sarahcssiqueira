@@ -11,7 +11,7 @@ I'm <a href="https://www.linkedin.com/in/sarahcssiqueira/">@sarahcssiqueira</a> 
 
 🐾 I'm currently working for a e-commerce, on their registration pet system with smart tags, and notifications about lost pets (Read more on <a href="https://rgparapets.com/">RG para Pets</a>).
 
-⚠️ This profile is mostly used for personal projects, for further information, take a look on my resume <a href="https://sarahcssiqueira.vercel.app/"> available here.</a>
+⚠️ This profile is mostly used for personal projects, for further information, take a look on my resume <a href="https://sarahcssiqueira.ga/"> available here.</a>
 
 <br>
 <br>
