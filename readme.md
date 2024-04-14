@@ -2,7 +2,7 @@ Hello, I'm Sarah, a WordPress developer from Brazil 🇧🇷
 
 Some of my projects available at [sarahjobs.com](https://sarahjobs.com/), regularly writing articles on [dev.to/sarahcssiqueira](https://dev.to/sarahcssiqueira). To reach me send me a email to **sarahcosiqueira@gmail.com**
 
-🌟 Fun fact I am a former physics student, turns out my math skills were not good enough for the kind of physicist I wanted to become.
+🌟 Fun fact: I am a former physics student, turns out my math skills were not good enough for the kind of physicist I wanted to become 🤷🏻‍♀️
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahcssiqueira&show_icons=true&locale=en&layout=compact" alt="sarahcssiqueira" /></p>
 
