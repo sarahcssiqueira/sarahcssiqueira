@@ -1,4 +1,4 @@
-Hello, I'm Sarah, a WordPress developer from Brazil 🇧🇷
+Hello, I'm Sarah, a software engineer from Brazil 🇧🇷
 
 Some of my projects available at [sarahjobs.com](https://sarahjobs.com/), regularly writing articles on [dev.to/sarahcssiqueira](https://dev.to/sarahcssiqueira). To reach me send me a email to **sarahcosiqueira@gmail.com**
 
