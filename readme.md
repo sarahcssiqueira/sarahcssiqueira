@@ -4,7 +4,7 @@ Some of my projects available at [sarahjobs.com](https://sarahjobs.com/), regula
 
 🌟 Fun fact: I am a former physics student, turns out my math skills were not good enough for the kind of physicist I wanted to become 🤷🏻‍♀️
 
-<p><img align="center" src="https://github-readme-stats-seven-beta-44.vercel.app/api/top-langs?username=sarahcssiqueira&layout=compact&hide=html,shell,&langs_count=10" alt="sarahcssiqueira" /></p>
+<p><img align="center" src="https://github-readme-stats-seven-beta-44.vercel.app/api/top-langs?username=sarahcssiqueira&layout=compact&hide=html,&langs_count=10" alt="sarahcssiqueira" /></p>
 
 
 <h4 align="left">Connect with me:</h4>
